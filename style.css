@@ -1,3 +1,10 @@
+body {
+	background-color: #fc9b41;
+	color: #fcf941;
+	font-size: 48px;
+	text-align: center;
+}
+
 h1 {
-	color: blue;
+	color: #fc4144;
 }
